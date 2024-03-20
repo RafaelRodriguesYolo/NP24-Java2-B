@@ -1,0 +1,17 @@
+*****GIT BASH******
+
+git config user.name //Verifica o nome do usuario
+
+git config user.email //Verifica o e-mail do usuario
+
+git config user.name "RafaelRodriguesYolo"  //Altera o nome do usuario
+
+git config user.email "rafael_cloud44@hotmail.com" //Altera o e-mail do usuario
+-----------------------------------------------------------------
+configurado nome e e-mail do usuario, bora para o proximo passo.
+-----------------------------------------------------------------
+git add . //Sobe todos os arquivos do projeto
+
+git commit -m "(titulo do que foi alterado)" //Empacota todo o projeto e entitula
+
+git push //sobe o projeto para o repositorio
