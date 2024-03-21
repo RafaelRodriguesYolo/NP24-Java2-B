@@ -1,5 +1,9 @@
 *****GIT BASH******
+=================================================
+PRIMEIRO COMANDO:
 
+git clone (link do repositório)
+=================================================
 git config user.name //Verifica o nome do usuario
 
 git config user.email //Verifica o e-mail do usuario
